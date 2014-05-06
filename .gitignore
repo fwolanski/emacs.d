@@ -1,2 +1,21 @@
-# Compiled
+*~
 *.elc
+*.dat
+auto-save-list
+recentf
+savehist
+saveplace
+eshell
+elpa
+el-get
+semanticdb
+url
+ede-projects.el
+.DS_Store
+places
+.smex-items
+savefile/
+var/
+projectile-bookmarks.eld
+tramp
+.cask/
